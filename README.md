@@ -9,6 +9,7 @@
 [<img align="left" alt="Clomby" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Clomby | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Clomby | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Clomby | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/snapchat.svg" />][snapchat]
 
 <br />
 
@@ -37,3 +38,4 @@
 [mongo]: https://www.mongodb.com/
 [git]: https://git-scm.com/
 [github]: https://github.com/
+[snapchat]: https://www.snapchat.com/add/Erliboii
