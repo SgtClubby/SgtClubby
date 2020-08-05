@@ -1,0 +1,39 @@
+### Hi there, I'm Erlend - aka [Clomby][website] 👋
+
+## Shitty coder!
+- 🔭 I’m currently working on a Discord Bot!
+- 🌱 I’m currently learning everything 
+
+### Connect with me:
+
+[<img align="left" alt="Clomby" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Clomby | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Clomby | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsc]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongo]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+
+<br />
+<br />
+
+---
+
+<img align="left" alt="ZaxmkE's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ZaxmkE&show_icons=true&hide_border=true" />
+
+[website]: https://guttespinat.no
+[twitter]: https://twitter.com/Clbbyx
+[instagram]: https://www.instagram.com/erlendvolden/
+[vsc]: https://code.visualstudio.com/
+[js]: https://www.javascript.com
+[node]: https://nodejs.org/en/
+[mongo]: https://www.mongodb.com/
+[git]: https://git-scm.com/
+[github]: https://github.com/
