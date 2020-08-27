@@ -1,4 +1,4 @@
-### Hi there, I'm Erlend - aka [Clomby][website] 👋
+### Hi there, I'm Erlend - aka [SgtClubby][website] 👋
 
 ## Shitty coder!
 - 🔭 I’m currently working on a Discord Bot!
@@ -27,9 +27,9 @@
 
 ---
 
-<img align="left" alt="ZaxmkE's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ZaxmkE&show_icons=true&hide_border=true" />
+<img align="left" alt="SgtClubby's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SgtClubby&show_icons=true&hide_border=true" />
 
-[website]: https://guttespinat.no
+[website]: https://metrix.pw
 [twitter]: https://twitter.com/Clbbyx
 [instagram]: https://www.instagram.com/erlendvolden/
 [vsc]: https://code.visualstudio.com/
