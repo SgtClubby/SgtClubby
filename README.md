@@ -1,8 +1,8 @@
 ### Hi there, I'm Erlend - aka [SgtClubby][website] 👋
 
 ## Shitty coder!
-- 🔭 I’m currently working on a Discord Bot!
-- 🌱 I’m currently learning everything 
+- 🔭 I’m currently working with stuff
+- 🌱 I’m relearing everything
 
 ### Connect with me:
 
