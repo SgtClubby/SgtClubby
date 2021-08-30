@@ -2,7 +2,7 @@
 
 ## Shitty coder!
 - 🔭 I’m currently working with stuff
-- 🌱 I’m relearing everything
+- 🌱 I’m relearning everything
 
 ### Connect with me:
 
