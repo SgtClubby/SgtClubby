@@ -25,7 +25,7 @@
 
 ---
 
-<img align="left" alt="SgtClubby's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark" />
+<img align="left" alt="SgtClubby's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SgtClubby&theme=dark" />
 <img align="left" alt="SgtClubby's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SgtClubby&show_icons=true&hide_border=true&theme=dark" />
 
 
