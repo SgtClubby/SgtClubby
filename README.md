@@ -1,8 +1,8 @@
 ### Hi there, I'm Erlend - aka [Clomby][website] 👋
 
-## Shitty coder!
-- 🔭 I’m currently working with stuff
-- 🌱 I’m relearning everything
+## Non-pog coder (Just look at Metrix!)!
+- 🔭 I’m currently working as an apperentice, but not code related.
+- 🌱 I’m currently learning nextjs with tailwind and more advanced JavaScript.
 
 ### Connect with me:
 
@@ -25,7 +25,7 @@
 
 ---
 
-<img align="left" alt="SgtClubby's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SgtClubby&show_icons=true&hide_border=true" />
+<img align="left" alt="SgtClubby's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SgtClubby&show_icons=true&hide_border=true&theme=dark" />
 
 [website]: https://clom.by
 [twitter]: https://twitter.com/Clbbyx
