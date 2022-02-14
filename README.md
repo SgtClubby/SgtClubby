@@ -1,4 +1,4 @@
-### Hi there, I'm Erlend - aka [SgtClubby][website] 👋
+### Hi there, I'm Erlend - aka [Clomby][website] 👋
 
 ## Shitty coder!
 - 🔭 I’m currently working with stuff
@@ -27,7 +27,7 @@
 
 <img align="left" alt="SgtClubby's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SgtClubby&show_icons=true&hide_border=true" />
 
-[website]: https://metrix.pw
+[website]: https://clom.by
 [twitter]: https://twitter.com/Clbbyx
 [instagram]: https://www.instagram.com/erlendvolden/
 [vsc]: https://code.visualstudio.com/
