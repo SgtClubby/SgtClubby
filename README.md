@@ -26,7 +26,8 @@
 ---
 
 <img align="left" alt="SgtClubby's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SgtClubby&show_icons=true&hide_border=true&theme=dark" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="SgtClubby's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark" />
+
 
 [website]: https://clom.by
 [twitter]: https://twitter.com/Clbbyx
