@@ -1,8 +1,8 @@
 ### Hi there, I'm Erlend - aka [Clomby][website] 👋
 
 ## Non-pog coder (Just look at Metrix!)!
-- 🔭 I’m currently working as an apperentice, but not code related.
-- 🌱 I’m currently learning nextjs with tailwind and more advanced JavaScript.
+- 🔭 I’m currently working with Web Development.
+- 🌱 I’m currently OK at nextjs with Tailwind CSS and more advanced JavaScript.
 
 ### Connect with me:
 
